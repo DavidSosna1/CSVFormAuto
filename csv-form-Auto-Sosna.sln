@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1209
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csv-form-Auto-Sosna", "csv-form-Auto-Sosna\csv-form-Auto-Sosna.csproj", "{309FEB38-CA2F-482C-B481-0E40A94C376E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{309FEB38-CA2F-482C-B481-0E40A94C376E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{309FEB38-CA2F-482C-B481-0E40A94C376E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{309FEB38-CA2F-482C-B481-0E40A94C376E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{309FEB38-CA2F-482C-B481-0E40A94C376E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {111D508F-02F5-4F6C-83B8-FB76A8C95F1F}
+	EndGlobalSection
+EndGlobal
